@@ -1,1 +1,5 @@
-# Task_Management_System
+Django - 5.1.2
+djongo - 1.3.6
+pymongo - 3.12.3
+python
+mongodb
